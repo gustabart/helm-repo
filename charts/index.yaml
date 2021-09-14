@@ -3,12 +3,12 @@ entries:
   apisecurity-helm:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-09-14T15:30:02.136087739-03:00"
+    created: "2021-09-14T15:36:26.921780718-03:00"
     description: A Helm chart for Kubernetes
     digest: 6349e15eac84a958db11991aca35d81cce5bd4e41233d1005c09bb85e1841cac
     name: apisecurity-helm
     type: application
     urls:
-    - https://gustabart.github.io/helm-repo/charts/apisecurity-helm-0.1.0-beta.2.tgz
+    - https://gustabart.github.io/helm-repo/apisecurity-helm-0.1.0-beta.2.tgz
     version: 0.1.0-beta.2
-generated: "2021-09-14T15:30:02.134901338-03:00"
+generated: "2021-09-14T15:36:26.921212118-03:00"
