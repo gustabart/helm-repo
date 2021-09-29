@@ -3,7 +3,7 @@ entries:
   apisecurity-helm:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-09-17T23:47:08.310675282-03:00"
+    created: "2021-09-29T17:59:19.595415975-03:00"
     description: A Helm chart for Kubernetes
     digest: f34024a5340feeabcb64ec6040a91b16ced93dc14ee1aac86c7ac4454522e282
     name: apisecurity-helm
@@ -13,7 +13,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: latest
-    created: "2021-09-17T23:47:08.309933721-03:00"
+    created: "2021-09-29T17:59:19.595007112-03:00"
     description: A Helm chart for Kubernetes
     digest: 919a6568c28acfc16439fe27d2c02c306a5177c8d214e72af6bf79a98f12a126
     name: apisecurity-helm
@@ -21,4 +21,15 @@ entries:
     urls:
     - apisecurity-helm-0.1.3.tgz
     version: 0.1.3
-generated: "2021-09-17T23:47:08.308375055-03:00"
+  loginapp:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-09-29T17:59:19.595761564-03:00"
+    description: A Helm chart for Kubernetes
+    digest: dbd9d5ec8d119952d3eb29fb93a771719d62c02fc9b70d6fef439f46c270bbf8
+    name: loginapp
+    type: application
+    urls:
+    - loginapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-29T17:59:19.594407612-03:00"
