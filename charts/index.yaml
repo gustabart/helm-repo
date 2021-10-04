@@ -3,7 +3,17 @@ entries:
   apisecurity:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-10-04T13:10:44.3456304-03:00"
+    created: "2021-10-04T16:18:05.1809624-03:00"
+    description: Chart de Helm para la aplicación apisecurity
+    digest: 5d2afaa21b2e70725e6ac105264b571d4f226f15b1f9fc1f2c5173ec9c40bbf6
+    name: apisecurity
+    type: application
+    urls:
+    - apisecurity-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-10-04T16:18:05.1807039-03:00"
     description: Chart de Helm para la aplicación apisecurity
     digest: 494578c3646ab780d81ac9eeda3383945d2a175bb0c280348cf4f036e619e88c
     name: apisecurity
@@ -14,7 +24,7 @@ entries:
   loginapp:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-10-04T13:10:44.346093-03:00"
+    created: "2021-10-04T16:18:05.1813986-03:00"
     description: Chart de Helm para la app loginapp
     digest: a43ed536cb76ff34b72e4b9abcc47ee9930c9a829abc5268efa3cee7d1a4cb77
     name: loginapp
@@ -24,7 +34,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: latest
-    created: "2021-10-04T13:10:44.3458722-03:00"
+    created: "2021-10-04T16:18:05.1811683-03:00"
     description: A Helm chart for Kubernetes
     digest: dbd9d5ec8d119952d3eb29fb93a771719d62c02fc9b70d6fef439f46c270bbf8
     name: loginapp
@@ -32,4 +42,4 @@ entries:
     urls:
     - loginapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-04T13:10:44.3452307-03:00"
+generated: "2021-10-04T16:18:05.1803494-03:00"
